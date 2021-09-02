@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resources</string>
+    <string name="tittle">Titulo de la imagen</string>
+    <string name="description">Esta aplicacion se completara usando recursos</string>
+</resources>
